@@ -1,0 +1,23 @@
+.list {
+    margin-left: 15%;
+    margin-top: 10px;
+    width: 20%;
+}
+
+.date {
+    margin-left: 15%;
+    margin-top: 10px;
+}
+
+.date div {
+    margin-top: 10px;
+}
+
+.date button {
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 10px;
+    padding: 1px 7px 2px;
+    font: 400 32px;
+}
